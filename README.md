@@ -1,5 +1,7 @@
 ENPM 667 final project
+
 #LQR-and-LQG-controller-for-a-moving-crane-with-dual-pendulums
+
 Consider a crane that moves along an one-dimensional track. It behaves
 as a frictionless cart with mass M actuated by an external force F that constitutes the input of the system.
 There are two loads suspended from cables attached to the crane. The loads have mass m1 and m2, and
